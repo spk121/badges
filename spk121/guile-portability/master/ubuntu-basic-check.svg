@@ -2,11 +2,11 @@
   <rect width="248" height="176" rx="4" ry="4" fill="black" />
   <text font-family="monospace" fill="white" alignment-baseline="baseline" style="white-space: pre; tab-size: 4;">
     <tspan x="8" y="24">Totals for this test run:</tspan>
-    <tspan x="8" y="40">passes:                 43898</tspan>
+    <tspan x="8" y="40">passes:                 43897</tspan>
     <tspan x="8" y="56">failures:               0</tspan>
     <tspan x="8" y="72">unexpected passes:      0</tspan>
     <tspan x="8" y="88">expected failures:      24</tspan>
-    <tspan x="8" y="104">unresolved test cases:  594</tspan>
+    <tspan x="8" y="104">unresolved test cases:  595</tspan>
     <tspan x="8" y="120">untested test cases:    1</tspan>
     <tspan x="8" y="136">unsupported test cases: 10</tspan>
     <tspan x="8" y="152">errors:                 0</tspan>
