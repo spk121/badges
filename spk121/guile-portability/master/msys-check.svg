@@ -2,5 +2,6 @@
   <rect width="184" height="32" rx="4" ry="4" fill="black" />
   <text font-family="monospace" fill="white" alignment-baseline="baseline" style="white-space: pre; tab-size: 4;">
     <tspan x="8" y="24">Complete test failure</tspan>
+
   </text>
 </svg>
